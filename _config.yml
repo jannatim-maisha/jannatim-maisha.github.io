@@ -28,13 +28,13 @@ author:
   location         : "Dhaka, Bangladesh"
   employer         : # URL
   uri              : # URL
-  email            : "maishapousy@gmail.com" 
+  email            : "maishapousy@gmail.com, jannatim.maisha@seu.edu.bd" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : ""
+  arxiv            : "https://arxiv.org/a/0009-0005-0512-3493.html" # URL - Update with the correct link to your profile
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=PU2V7tIAAAAJ"
   impactstory      : # URL
-  orcid            : # URL
+  orcid            : "https://orcid.org/0009-0005-0512-3493" # URL  
   semantic         : # URL
   pubmed           : # URL
   researchgate     : "https://www.researchgate.net/profile/Jannatim-Maisha"
