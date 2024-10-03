@@ -8,7 +8,7 @@ author_profile: true
 
 # Proffesional Teaching Experience
 
-* Southeast University (SEU), Dhaka, Bangladesh.<br />
+* <a href="https://seu.edu.bd/index.php">Southeast University (SEU)</a>, Dhaka, Bangladesh.<br />
 Adjunct Lecturer<br />
 Department of Computer Science and Engineering<br />
 <i style='color:#000099;'>July 2024 - Present</i> <br />

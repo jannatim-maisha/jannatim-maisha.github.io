@@ -36,7 +36,7 @@ Duration: 2015 - 2017 <br/>
 <hr>
 * Dean’s List of Honor.
 * Academic Excellence - 50% tuition waiver awarded each semester based on academic result, AUST. (2020-2024)
-* Intra AUST software exhibition 2024 (1st).
+* Intra AUST software exhibition 2024 (1st).<a href="https://jannatim-maisha.github.github.io/files/sw_cer.pdf">Certificate</a>
 * Intra AUST software exhibition 2023, 2022.
 * Intra AUST Programming contest 2022.
 * National Girls Programming Contest 2022. <a href="https://drive.google.com/file/d/1WskwtekgOwxGpmhfWeDb20TALOIJTP8U/view?usp=sharing">Certificate</a>
