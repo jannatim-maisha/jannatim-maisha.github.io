@@ -20,14 +20,14 @@ Duration: 2020 - 2024 <br/>
 
 <span style="font-family:Georgia; color:black;">
 <span style="color:black; font-size:20px; font-family:Calisto MT"><b><a href="" target="_blank">Motĳheel Ideal School and College</a></b></span><br/>
-Higher Secondary Certificate (HSC) [[Certificate]](https://jannatim-maisha.github.github.io/files/JannatimMaisha_HSC_Certificate.pdf)<br/>
+Higher Secondary Certificate (HSC) [[Certificate]](https://jannatim-maisha.github.io/files/JannatimMaisha_HSC_Certificate.pdf)<br/>
 GPA: <b>5.00/5.00</b><br/>
 Duration: 2017 - 2019 <br/>
 </span>
 
 <span style="font-family:Georgia; color:black;">
 <span style="color:black; font-size:20px; font-family:Calisto MT"><b><a href="" target="_blank">Motĳheel Government Girls High School</a></b></span><br/>
-Secondary School Certificate (SSC) [[Certificate]](https://jannatim-maisha.github.github.io/files/JannatimMaisha_SSC_Certificate.pdf)<br/>
+Secondary School Certificate (SSC) [[Certificate]](https://jannatim-maisha.github.io/files/JannatimMaisha_SSC_Certificate.pdf)<br/>
 GPA: <b>5.00/5.00</b><br/>
 Duration: 2015 - 2017 <br/>
 </span>
