@@ -19,7 +19,7 @@ Department of Computer Science and Engineering<br />
 <span style="color:green"><font size="3"><ins>Conducted in Summer 2024</ins></font></span><br>
 <span style="text-align:justify; color:black; display:block;">
 <font size="3">
-<strong>Syllabus</strong>: Introduction to Algorithm, Pseudo-code, Flowchart; Linear Search; Binary Search; Selection Sort; Insertion Sort; Merge Sort: Divide; Merge Sort: Conquer; Quick Sort: Partition; Quick Sort; Singly Linked List (intro); Linked Lists: Searching & Insertion; Linked Lists: Deletion of a node; Stack; Queues; Tower of Hanoi; Expression Evaluation; Infix to Postfix Conversion; Graph Introduction; Breadth-First Search (BFS); Depth-First Search (DFS); Tree, Tree Traversal; Binary Search Tree (BST); Basics of Hashing; Collision Resolution Techniques Coalesced Chaining Hashing.
+<strong>Syllabus</strong>: Introduction to Algorithm, Pseudo-code, Flowchart; Linear Search; Binary Search; Bubble Sort; Selection Sort; Insertion Sort; Merge Sort: Divide; Merge Sort: Conquer; Quick Sort; Singly Linked List (intro); Linked Lists: Searching & Insertion; Linked Lists: Deletion of a node;  Linked Lists: Two-Way Lists, Header Lists, Circular Lists; Stack; Queues; Tower of Hanoi; Expression Evaluation; Infix to Postfix Conversion; Graph Introduction; Breadth-First Search (BFS); Depth-First Search (DFS); Tree, Tree Traversal; Binary Search Tree (BST); Heap; Basics of Hashing; Collision Resolution Techniques Coalesced Chaining Hashing.
 </font>
 </span><br>
 </details>

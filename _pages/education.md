@@ -17,11 +17,10 @@ CGPA: <b>3.869/4.00</b> (2nd in Merit) [[Transcript]](https://jannatim-maisha.gi
 Duration: 2020 - 2024 <br/>
 <b>Thesis Supervisor:</b> <a style="color:black;" href="https://scholar.google.com/citations?user=su683LQAAAAJ&hl=en">Mr. Faisal Muhammad Shah</a><br/><b>Thesis Title:</b> A study of contrastive learning methods for bengali social analysis.
 <br/>
-<span style="color:black; font-size:12px; font-family:Calisto MT">
-*Focused on improving sentiment analysis and text classification to provide a hopeful path toward better digital safety and
+<span style="font-style: italic"><font  size="2">
+-Focused on improving sentiment analysis and text classification to provide a hopeful path toward better digital safety and
 emotional well-being. Investigated contrastive learning techniques with Bangla BERT, demonstrating their superior accuracy
-compared to traditional methods.</span>
-
+compared to traditional methods.</font></span><br>
 
 <span style="font-family:Georgia; color:black;">
 <span style="color:black; font-size:20px; font-family:Calisto MT"><b><a href="" target="_blank">Motĳheel Ideal School and College</a></b></span><br/>

@@ -22,9 +22,9 @@ Bengali BERT model, achieving new benchmarks for binary and multi-class sentimen
 
 ## Ongoing Projects
 * Contrastive Learning methods in code-mixed languages.
-* Sub-Dialect Detection and Translation Using Contrastive Learning and Adversarial Training for Bangla.
+* Sub-Dialect Detection and Translation.
 * Plagiarism Detection in Bengali Cover Songs.
-* Fake review dataset.
+
 
 
 __________________________________________________

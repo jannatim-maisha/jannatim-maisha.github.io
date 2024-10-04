@@ -65,7 +65,7 @@ Service and leadership
 
 
 ---
-<!-- layout: archive
+layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
@@ -73,7 +73,8 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %} -->
+
+{% include base_path %}
 
 JANNATIM MAISHA  
 Email: maishapousy@gmail.com | Website: https://jannatim-maisha.github.io/
