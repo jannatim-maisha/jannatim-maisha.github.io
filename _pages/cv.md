@@ -62,12 +62,12 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams -->
-JANNATIM MAISHA  
+<!-- JANNATIM MAISHA  
 Email: maishapousy@gmail.com | Website: https://jannatim-maisha.github.io/
 
 Research Interests
 ======
-Machine Learning, Deep Learning, Natural Language Processing, Large Language Models, Computer Vision, Contrastive Learning, Speech Recognition
+Machine Learning, Deep Learning, Natural Language Processing, Large Language Models, Computer Vision, Contrastive Learning, Speech Recognition -->
 
 Education
 ======
@@ -84,7 +84,7 @@ Publications
 ======
 (* denotes equal contribution)
 * J. Maisha, et al., “A Study of Contrastive Learning Methods for Bengali Social Analysis,” 2024 6th International Conference on Electrical Engineering and Information & Communication Technology (ICEEICT), Dhaka, Bangladesh.  
-*Additional publications available on my [website](https://jannatim-maisha.github.io/).*
+*Additional publications available on my [Research & Publications](https://jannatim-maisha.github.io/research/).*
 
 Teaching Experience
 ======
