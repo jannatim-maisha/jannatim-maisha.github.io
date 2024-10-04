@@ -38,19 +38,21 @@ Duration: 2015 - 2017 <br/>
 <br/>
 # Participation and Awards
 <hr>
-* Dean’s List of Honor.( Based on B.Sc. result, <a href="https://aust.edu/notice/2348">top 2%</a> out of 93 students)
-* Academic Excellence - 50% tuition waiver awarded each semester based on academic result, AUST. (2020-2024)
-* Intra AUST software exhibition 2024 (1st)-Spearheaded a team to win the Champion title at the AUST Annual Software Exhibition 2024 with a project featuring a university programming club website using ASP.NET and a BERT pre-trained model.<a href="https://jannatim-maisha.github.github.io/files/sw_cer.pdf">Certificate</a>
-* INFORMATICS’2024 Grant - Received a publication fee grant.
+* **Dean’s List of Honor.** ( Based on B.Sc. result, <a href="https://aust.edu/notice/2348">top 2%</a> out of 93 students)
+* **Academic Excellence** - 50% tuition waiver awarded each semester based on academic result, AUST. (2020-2024)
+* **Champion** (Intra AUST software exhibition 2024) - Spearheaded a team to win the Champion title at the AUST Annual Software Exhibition 2024 with a project featuring a university programming club website using ASP.NET and a BERT pre-trained model.<a href="https://jannatim-maisha.github.github.io/files/sw_cer.pdf">Certificate</a>
+* **INFORMATICS’2024 Grant** - Received a publication fee grant.
 * Participated in the workshop AWS Startup Day Bangladesh jointly organized by AWS, Knowledgevale, Daffodil International University and Bangladesh Venture Capital (2023).
-* Top 20, Huawei Seeds For The Future 2023.
-* Presenter Author - Technical Session of ICEEICT 2024: Presented and authored a technical paper at the International Conference on Electrical, Electronics, and Information Communication Technology 2024.<a href="https://drive.google.com/file/d/1SYz5FbzbQDQvhFLxIfd7pabMRUbOmTSM/view?usp=sharing">Certificate</a>
-* Startup Winning Pitch, Among 34 Bangladeshi startups eligible for $10,000 credit facilities each from Amazon Web Services (AWS).(2023)
+* Participated in the 6th International Conference on Electrical Engineering and Information &
+Communication Technology (ICEEICT 2024), Dhaka, Bangladesh (2023).
+* **Top 20**, Huawei Seeds For The Future 2023.
+* **Presenter Author** - Technical Session of ICEEICT 2024: Presented and authored a technical paper at the International Conference on Electrical, Electronics, and Information Communication Technology 2024.<a href="https://drive.google.com/file/d/1SYz5FbzbQDQvhFLxIfd7pabMRUbOmTSM/view?usp=sharing">Certificate</a>
+* **Startup Winning Pitch**, Among 34 Bangladeshi startups eligible for $10,000 credit facilities each from Amazon Web Services (AWS).(2023)
 * Intra AUST software exhibition 2023, 2022.
 * Intra AUST Programming contest 2022.
 * National Girls Programming Contest 2022. <a href="https://drive.google.com/file/d/1WskwtekgOwxGpmhfWeDb20TALOIJTP8U/view?usp=sharing">Certificate</a>
 * National Girls Programming Contest 2021. <a href="https://drive.google.com/file/d/1--XsiV_f94JElfC6CJxF_GCl55HFTbNa/view?usp=sharing">Certificate</a>
-* Educational Campaign Winner - 10 Minute School. (2019)
-* Government Scholarship (Dhaka Board) - Prestigious government scholarship for academic excellence. (2011)
+* **Educational Campaign Winner** (10 Minute School)-Taught and won an education campaign by 10 Minute School. (2019)
+* **Government Scholarship** (Dhaka Board) - Prestigious government scholarship for academic excellence. (2011)
 
 ___________________________________________
