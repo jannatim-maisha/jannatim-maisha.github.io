@@ -43,5 +43,5 @@ Mathematics, basic programming, and other subjects to support high school studen
 
 * Educational Content Creator<br />
 YouTube channel: <a href="https://www.youtube.com/@LearnWithFun-wm7gi">Learn with Fun</a><br/>
-Providing tutorials to make ML concepts accessible.<br />
+Providing tutorials to simplify Machine Learning concepts for better understanding.<br />
 <i style='color:#000099;'>June 2023 – Present</i> <br />
