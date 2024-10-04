@@ -105,25 +105,7 @@ Skills
 * Frameworks: ASP.NET MVC, Bootstrap, WebGL
 * Others: CSS, Matplotlib, PL/SQL, LaTeX
 
-<!-- Awards & Achievements
-======
-* **Dean’s List of Honor** - Top 2% based on B.Sc. results. *2024*
-* **Champion** - AUST Software Exhibition (Led winning team for programming club website). *2023*
-* **Top 30** - National Girls’ Programming Contest. *2021, 2022*
-* **Top 20** - Global Huawei Seeds for the Future program. *2023*
-* **Startup Winning Pitch** - Secured $10,000 AWS credit among 34 startups for EONE Technologies. *2023*
-* **Campaign Winner** - Taught and won an education campaign by 10 Minute School. *2019*
-* **Academic Excellence Scholarship** - 50% tuition waiver based on academic performance at AUST. *2020 – 2024*
-* **INFORMATICS’2024 Grant** - Received publication fee grant. *2024*
-* **Government Scholarship (Dhaka Board)** - Prestigious scholarship for academic excellence. *2011*
 
-Extracurricular and Voluntary Activities
-======
-* **Quantum Method Meditation Foundation Course** - Mind development and self-improvement. *2018*
-* **Educational Ambassador, 10 Minute School** - Created interactive learning materials and tutorials. *2019*
-* **AUST Sports Club** - Participated and won in university tournaments. *2021 – 2023*
-* **Sub-Executive, AUST Programming and Informatics Club** - Organized coding events. *2023*
-* **Volunteer, Reform Bangladesh** - Engaged in road cleaning and flood relief efforts. *2024* -->
 
 Contact
 ======
