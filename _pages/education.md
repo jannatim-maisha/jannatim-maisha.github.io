@@ -14,6 +14,7 @@ redirect_from:
 <span style="color:black; font-size:20px; font-family:Calisto MT"><b><a href="https://aust.edu" target="_blank">Ahsanullah University of Science and Technology</a></b></span><br/>
 Bachelor of Science (B.Sc.) in Computer Science and Engineering [[Certificate]](https://jannatim-maisha.github.io/files/JannatimMaisha_Provisional_Certificate.pdf)<br/>
 CGPA: <b>3.869/4.00</b> (2nd in Merit) [[Transcript]](https://jannatim-maisha.github.io/files/JannatimMaisha_BSc_Transcript.pdf) <br/>
+CGPA of last 100 credits : 3.94 / 4.00 <br/>
 Duration: 2020 - 2024 <br/>
 <b>Thesis Supervisor:</b> <a style="color:black;" href="https://scholar.google.com/citations?user=su683LQAAAAJ&hl=en">Mr. Faisal Muhammad Shah</a><br/><b>Thesis Title:</b> A study of contrastive learning methods for bengali social analysis.
 <br/>
