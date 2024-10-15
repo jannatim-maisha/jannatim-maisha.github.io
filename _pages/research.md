@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 <b>Areas of Interests:</b>
-Machine Learning, Natural Language Processing, Computer Vision, Large Language Model, Signal Processing.
+Machine Learning, Natural Language Processing, Computer Vision, Image Processing, Large Language Model.
   
 ## Publications
 <script src="https://bibbase.org/show?bib=https%3A%2F%2Fbibbase.org%2Fnetwork%2Ffiles%2F8DrJ4qd2uE8fmm5JR&noBootstrap=1&jsonp=1"></script>
