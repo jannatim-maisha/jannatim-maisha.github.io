@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-# Proffesional Teaching Experience
+# Professional Teaching Experience
 
 * <a href="https://seu.edu.bd/index.php">Southeast University (SEU)</a>, Dhaka, Bangladesh.<br />
 Adjunct Lecturer<br />
@@ -35,13 +35,13 @@ Department of Computer Science and Engineering<br />
 </details>
 <br/>
 
-# Non-Proffesional Teaching Experience
+# Non-Professional Teaching Experience
 
-* Tutor<br/>
-Mathematics, basic programming, and other subjects to support high school students.<br />
+* Academic Tutor<br/>
+Provided personalized instruction in mathematics, basic programming, and other subjects to help high school students excel academically<br />
 <i style='color:#000099;'>February 2018 — August 2023</i> <br />
 
 * Educational Content Creator<br />
 YouTube channel: <a href="https://www.youtube.com/@LearnWithFun-wm7gi">Learn with Fun</a><br/>
-Providing tutorials to simplify Machine Learning concepts for better understanding.<br />
+Providing tutorials to simplify Educational concepts for better understanding.<br />
 <i style='color:#000099;'>June 2023 – Present</i> <br />
