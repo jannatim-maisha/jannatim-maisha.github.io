@@ -21,6 +21,8 @@ My previous research focused on addressing challenges in low-resource Natural La
 
 # Activities 
 
+* <span style="color:Blue"> [November 2024]  </span> - Two paper got accepted at [ICCIT 2024](https://iccit.org.bd/2024/).
+* <span style="color:Blue"> [November 2024]  </span> - presented a paper at [Informatics 2024](https://informatics.kpi.fei.tuke.sk/).
 * <span style="color:Blue"> [October 2024]  </span> - One paper got accepted at [Informatics 2024](https://informatics.kpi.fei.tuke.sk/).
 * <span style="color:Blue"> [August 2024]  </span> - One paper got accepted at [FMLDS 2024](https://fmlds.org/).
 * <span style="color:Blue"> [July 2024]  </span> - Joined as Adjunct Lecturer at <a href="https://seu.edu.bd/index.php">Southeast University (SEU)</a>
