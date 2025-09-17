@@ -5,12 +5,13 @@ permalink: /research/
 author_profile: true
 ---
 <b>Areas of Interests:</b>
-Machine Learning, Natural Language Processing, Computer Vision, Image Processing, Large Language Model.
+Artificial Intelligence, Machine Learning, Natural Language Processing, Computer Vision, Multimodal Learning, Signal Processing
   
 ## Publications
-<script src="https://bibbase.org/show?bib=https%3A%2F%2Fbibbase.org%2Fnetwork%2Ffiles%2F8DrJ4qd2uE8fmm5JR&noBootstrap=1&jsonp=1"></script>
+<!-- <script src="https://bibbase.org/show?bib=https%3A%2F%2Fbibbase.org%2Fnetwork%2Ffiles%2F8DrJ4qd2uE8fmm5JR&noBootstrap=1&jsonp=1"></script> -->
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Fbibbase.org%2Fnetwork%2Ffiles%2FoiAweF3jCxzvQQS8F&noBootstrap=1&jsonp=1"></script>
 
-## Under Review
+<!-- ## Under Review
 
 - F. H. Swarnali, **J. Maisha**, M. A. Mahtab, M. S. I. Iftikar, and F. M. Shah, “**Bengali multi-class text classification via enhanced contrastive learning techniques**,” in *2024 27th International Conference on Computer and Information Technology (ICCIT)*, Cox’s Bazar, Bangladesh.  
   <details> 
@@ -22,12 +23,12 @@ Machine Learning, Natural Language Processing, Computer Vision, Image Processing
   <details> 
   <summary>Abstract</summary> 
   Generating effective image captions in Bengali requires not only describing what is happening in the image but also accurately identifying traditional objects by their local representative terms. To achieve this, we explored the potential of Large Language Models (LLMs) for Bengali image captioning. Using CLIP encodings as a prefix to the captions and fine-tuning BanglaGPT, we developed models that outperform existing benchmarks. On the BanglaLekha dataset, our best model achieved BLEU-4 and CIDEr scores of 54.3 and 95.9, respectively, while on the BNature dataset, it achieved 67.4 and 76.9. This study demonstrates significant advancements in Bengali image captioning.
-  </details>
+  </details> -->
 
 ## Conference Presentation
 
-- **A Study of Contrastive Learning Methods for Bengali Social Analysis**, *6th International Conference on Electrical Engineering and Information & Communication Technology (ICEEICT)*, Dhaka, Bangladesh. [Presentation link](https://www.youtube.com/watch?v=Czj9QxdQjM)
-
+- **A Study of Contrastive Learning Methods for Bengali Social Analysis**, *6th International Conference on Electrical Engineering and Information & Communication Technology (ICEEICT)*, Dhaka, Bangladesh. [Presentation link](https://www.youtube.com/watch?v=Czj9QxdQjM) | [Certificate Link](https://drive.google.com/file/d/1Z4FGfMeyoNynuAKf3uG9e468i8pTK8qN/view?usp=sharing)
+- **Safeguarding Music Artists Through Machine Learning-Based Singer Classification**, *IEEE 17th International Scientific Conference on Informatics*, Poprad, Slovakia, November 14, 2024. [Certificate Link](https://drive.google.com/file/d/1Vk3jbI6UdAawELruSMNF5YhpEDIQciT7/view?usp=sharing)
 <!-- ## Ongoing Projects
 
 - Contrastive Learning methods in code-mixed languages.
