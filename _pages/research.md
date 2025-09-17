@@ -27,14 +27,12 @@ Artificial Intelligence, Machine Learning, Natural Language Processing, Computer
 
 ## Conference Presentation
 
-- **A Study of Contrastive Learning Methods for Bengali Social Analysis**, *6th International Conference on Electrical Engineering and Information & Communication Technology (ICEEICT)*, Dhaka, Bangladesh. [Presentation link](https://www.youtube.com/watch?v=Czj9QxdQjM) | [Certificate Link](https://drive.google.com/file/d/1Z4FGfMeyoNynuAKf3uG9e468i8pTK8qN/view?usp=sharing)
+- **A Study of Contrastive Learning Methods for Bengali Social Analysis**, *6th International Conference on Electrical Engineering and Information & Communication Technology (ICEEICT)*, Dhaka, Bangladesh. [Presentation link](https://www.youtube.com/watch?v=Czj9QxdQjM)  [Certificate Link](https://drive.google.com/file/d/1Z4FGfMeyoNynuAKf3uG9e468i8pTK8qN/view?usp=sharing)
+
 - **Safeguarding Music Artists Through Machine Learning-Based Singer Classification**, *IEEE 17th International Scientific Conference on Informatics*, Poprad, Slovakia, November 14, 2024. [Certificate Link](https://drive.google.com/file/d/1Vk3jbI6UdAawELruSMNF5YhpEDIQciT7/view?usp=sharing)
+
 <!-- ## Ongoing Projects
 
 - Contrastive Learning methods in code-mixed languages.
 - Sub-Dialect Detection and Translation.
 - Plagiarism Detection in Bengali Cover Songs. -->
-
-
-
-__________________________________________________
