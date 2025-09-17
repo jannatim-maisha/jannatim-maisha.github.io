@@ -28,11 +28,11 @@ Machine Learning, Natural Language Processing, Computer Vision, Image Processing
 
 - **A Study of Contrastive Learning Methods for Bengali Social Analysis**, *6th International Conference on Electrical Engineering and Information & Communication Technology (ICEEICT)*, Dhaka, Bangladesh. [Presentation link](https://www.youtube.com/watch?v=Czj9QxdQjM)
 
-## Ongoing Projects
+<!-- ## Ongoing Projects
 
 - Contrastive Learning methods in code-mixed languages.
 - Sub-Dialect Detection and Translation.
-- Plagiarism Detection in Bengali Cover Songs.
+- Plagiarism Detection in Bengali Cover Songs. -->
 
 
 

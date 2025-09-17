@@ -90,7 +90,7 @@ Teaching Experience
 ======
 * **Adjunct Lecturer**, Southeast University, Dhaka, Bangladesh  
   *July 2024 – Present*  
-  Courses: Data Structures, Discrete Mathematics
+  Courses: Data Structures and Algorithms, Discrete Mathematics, Numerical Methods, Digital Logic Design
 
 Work Experience
 ======
@@ -111,7 +111,7 @@ Contact
 ======
 For any inquiries, please reach out via:
 
-**Email**: maishapousy@gmail.com  
+**Email**: maishapousy@gmail.com; jannatim.maisha@seu.edu.bd 
 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/jannatim-maisha-a464b41a0/)  
 **GitHub**: [GitHub Profile](https://github.com/jannatim-maisha)  
 **Website**: [Personal Website](https://jannatim-maisha.github.io/)  

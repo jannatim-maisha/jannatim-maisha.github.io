@@ -12,15 +12,17 @@ Warm Greetings!!!
 
 <div style="text-align: justify"> 
 
-I am Jannatim Maisha, an Adjunct Lecturer at the Department of CSE, <a href="https://seu.edu.bd/index.php">Southeast University (SEU)</a>. I have completed B.Sc. in Computer Science and Engineering from <a href="http://aust.edu/">Ahsanullah University of Science and Technology (AUST)</a>, Dhaka, Bangladesh. My research interests are centered on Natural Language Processing (NLP), Computer Vision and Image Processing, Large Language Models (LLMs), Signal Processing, and the application of Machine Learning and Deep Learning methodologies.
+I am Jannatim Maisha, an Adjunct Lecturer at the Department of CSE, <a href="https://seu.edu.bd/index.php">Southeast University (SEU)</a>. I have completed B.Sc. in Computer Science and Engineering from <a href="http://aust.edu/">Ahsanullah University of Science and Technology (AUST)</a>, Dhaka, Bangladesh. My research interests are centered on  Artificial Intelligence, Machine Learning, Natural Language Processing, Computer Vision, Multimodal Learning and Signal
+Processing. I have also been an competitive programmer and i have used mainly C++ and Python in various programming contests. Dividing any problems into smaller parts and then solving effeciently part by part, I developed such skills in that experience.
 <br><br>
-My previous research focused on addressing challenges in low-resource Natural Language Processing (NLP). I employed advanced methods such as contrastive learning and adversarial training to enhance classification performance, particularly in fine-grained tasks for languages like Bengali. Additionally, I have worked on computer vision, large language models (LLMs), and Signal Processing, as well as involved in applying NLP and computer vision techniques to specific software engineering tasks. I embrace a creative approach to problem-solving. I take great joy in teaching what I learn. I am a dependable individual with excellent time management skills, always energetic and eager to acquire new knowledge, driven by natural curiosity.
+My thesis research was focused on addressing challenges in low-resource Natural Language Processing (NLP). I employed advanced methods such as contrastive learning and adversarial training to enhance classification performance, particularly in fine-grained tasks for languages like Bengali. Then I extended my works in the areas of ML applications(utilized various ML methods and included ensemble), computer vision(worked with CRNNs, Vision transformers, CLIP, YOLO and SLANET), language models (GPT-2), and Signal Processing ( through Fourier transform), as well as involved in applying NLP and computer vision techniques to specific software engineering tasks. I embrace a creative approach to problem-solving. I take great joy in teaching what I learn. I am a dependable individual with excellent time management skills, always energetic and eager to acquire new knowledge, driven by natural curiosity.
 </div>
 
 -----------
 
 # Activities 
-
+* <span style="color:Blue"> [June 2025]  </span> - One paper got published at [ICCIT 2024](https://iccit.org.bd/2024/).
+* <span style="color:Blue"> [December 2024]  </span> - Attended Conference, [ICCIT 2024](https://iccit.org.bd/2024/).
 * <span style="color:Blue"> [November 2024]  </span> - Two paper got accepted at [ICCIT 2024](https://iccit.org.bd/2024/).
 * <span style="color:Blue"> [November 2024]  </span> - presented a paper at [Informatics 2024](https://informatics.kpi.fei.tuke.sk/).
 * <span style="color:Blue"> [October 2024]  </span> - One paper got accepted at [Informatics 2024](https://informatics.kpi.fei.tuke.sk/).
