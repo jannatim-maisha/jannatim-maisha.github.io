@@ -47,7 +47,7 @@ Duration: 2015 - 2017 <br/>
 * Participated in the workshop AWS Startup Day Bangladesh jointly organized by AWS, Knowledgevale, Daffodil International University and Bangladesh Venture Capital (2023).
 * Participated in the 6th International Conference on Electrical Engineering and Information &
 Communication Technology (ICEEICT 2024), Dhaka, Bangladesh (2023).
-* **Top 20**, Huawei Seeds For The Future 2023.
+* **Top 8**, Huawei Seeds For The Future 2023.
 * **Presenter Author** - Technical Session of ICEEICT 2024: Presented and authored a technical paper at the International Conference on Electrical, Electronics, and Information Communication Technology 2024.<a href="https://drive.google.com/file/d/1SYz5FbzbQDQvhFLxIfd7pabMRUbOmTSM/view?usp=sharing">Certificate</a>
 * **Startup Winning Pitch**, Among 34 Bangladeshi startups eligible for $10,000 credit facilities each from Amazon Web Services (AWS).(2023)
 * Intra AUST software exhibition 2023, 2022.
