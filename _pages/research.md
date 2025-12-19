@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 <b>Areas of Interests:</b>
-Artificial Intelligence, Machine Learning, Natural Language Processing, Computer Vision, Multimodal Learning, Signal Processing
+Artificial Intelligence, Machine Learning, HCI, NLP, Computer Vision, Multimodal Learning, Signal Processing
   
 ## Publications
 <!-- <script src="https://bibbase.org/show?bib=https%3A%2F%2Fbibbase.org%2Fnetwork%2Ffiles%2F8DrJ4qd2uE8fmm5JR&noBootstrap=1&jsonp=1"></script> -->

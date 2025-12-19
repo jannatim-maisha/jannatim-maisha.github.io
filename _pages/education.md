@@ -56,5 +56,5 @@ Communication Technology (ICEEICT 2024), Dhaka, Bangladesh (2023).
 * National Girls Programming Contest 2021. <a href="https://drive.google.com/file/d/1--XsiV_f94JElfC6CJxF_GCl55HFTbNa/view?usp=sharing">Certificate</a>
 * **Educational Campaign Winner** (10 Minute School)-Taught and won an education campaign by 10 Minute School. (2019)
 * **Government Scholarship** (Dhaka Board) - Prestigious government scholarship for academic excellence. (2011)
-
+* Competitive Programming– Solved 150+ algorithmic problems on <a href="https://uhunt.onlinejudge.org/id/1191149">UVA</a>, <a href="https://toph.co/u/justchill">Toph</a>, and <a href="https://lightoj.com/user/maishapousy4">LightOJ</a> (Handle: justchill)
 ___________________________________________
