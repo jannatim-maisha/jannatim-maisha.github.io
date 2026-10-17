@@ -5,6 +5,12 @@ title: ""
 ---
 
 ## Experience
+* <a href="https://www.gsu.edu/">Georgia State University</a>, Atlanta, Georgia, USA.<br />
+Graduate Research Assistant<br />
+Body Data Interface (BDI) Lab; advisor: Dr. Yoon Jae Lee<br />
+<i style='color:#000099;'>January 2026 - Present</i> <br />
+<span style="font-size:12px; font-family:Calisto MT">Researching contactless physiological sensing, AI-assisted literacy coaching, and wearable sensing and smartwatch interfaces. <a href="/research/">Current research projects</a>.</span>
+
 * Systech Datasoft, Dhaka, Bangladesh.<br />
 Trainee Engineer (AI)<br />
 Computer Vision<br />

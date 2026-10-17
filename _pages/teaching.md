@@ -11,7 +11,7 @@ author_profile: true
 * <a href="https://seu.edu.bd/index.php">Southeast University (SEU)</a>, Dhaka, Bangladesh.<br />
 Adjunct Lecturer<br />
 Department of Computer Science and Engineering<br />
-<i style='color:#000099;'>July 2024 - Present</i> <br />
+<i style='color:#000099;'>July 2024 - December 2025</i> <br />
 
 <b>Courses</b>
 <details>

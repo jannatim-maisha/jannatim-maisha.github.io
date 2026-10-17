@@ -69,8 +69,14 @@ Research Interests
 ======
 Machine Learning, Deep Learning, Natural Language Processing, Large Language Models, Computer Vision, Contrastive Learning, Speech Recognition -->
 
+[Download my CV (PDF)](/files/Jannatim_Maisha_CV.pdf)
+
 Education
 ======
+* **Georgia State University**, Atlanta, Georgia, USA  
+  Ph.D. in Computer Science | January 2026 - Present  
+  Advisor: Dr. Yoon Jae Lee, Body Data Interface (BDI) Lab
+
 * **Ahsanullah University of Science and Technology (AUST)**, Dhaka, Bangladesh  
   Bachelor of Science in Computer Science and Engineering | 2020 – 2024 | CGPA: 3.869 / 4.000  
   [2nd in Merit Position]
@@ -86,10 +92,17 @@ Publications
 * J. Maisha, et al., “A Study of Contrastive Learning Methods for Bengali Social Analysis,” 2024 6th International Conference on Electrical Engineering and Information & Communication Technology (ICEEICT), Dhaka, Bangladesh.  
 *Additional publications available on my [Research & Publications](https://jannatim-maisha.github.io/research/).*
 
+Research Experience
+======
+* **Graduate Research Assistant**, Georgia State University, Atlanta, Georgia, USA  
+  *January 2026 - Present*  
+  Body Data Interface (BDI) Lab; advisor: Dr. Yoon Jae Lee.  
+  Contactless physiological sensing, AI-assisted literacy coaching, and wearable sensing and smartwatch interfaces. [Project details](/research/).
+
 Teaching Experience
 ======
 * **Adjunct Lecturer**, Southeast University, Dhaka, Bangladesh  
-  *July 2024 – Present*  
+  *July 2024 – December 2025*  
   Courses: Data Structures and Algorithms, Discrete Mathematics, Numerical Methods, Digital Logic Design
 
 Work Experience
@@ -104,6 +117,7 @@ Skills
 * ML/DL Tools: PyTorch, Keras, TensorFlow, Scikit-learn
 * Frameworks: ASP.NET MVC, Bootstrap, WebGL
 * Others: CSS, Matplotlib, PL/SQL, LaTeX
+* Additional Research Tools: rPPG, mmWave radar, nRF54L15, Bluetooth Low Energy, Wear OS, Arduino, Kotlin
 
 
 

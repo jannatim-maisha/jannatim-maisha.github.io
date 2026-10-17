@@ -7,6 +7,14 @@ author_profile: true
 <b>Areas of Interests:</b>
 Artificial Intelligence, Machine Learning, HCI, NLP, Computer Vision, Multimodal Learning, Signal Processing
   
+## Current Research
+
+I am a Graduate Research Assistant in the Body Data Interface (BDI) Lab at Georgia State University, advised by Dr. Yoon Jae Lee (January 2026 - Present).
+
+* **Contactless physiological sensing:** Developing camera-rPPG and mmWave-radar fusion for heart and breathing rates, evaluated against reference sensors.
+* **AI Coach:** Prototyping classroom interaction analysis and contrastive retrieval for LLM-assisted literacy coaching.
+* **Wearable sensing and interfaces:** Prototyping forehead fNIRS/PPG sensing and Bluetooth interfaces between PPG sensors and Wear OS smartwatches.
+
 ## Publications
 <!-- <script src="https://bibbase.org/show?bib=https%3A%2F%2Fbibbase.org%2Fnetwork%2Ffiles%2F8DrJ4qd2uE8fmm5JR&noBootstrap=1&jsonp=1"></script> -->
 <script src="https://bibbase.org/show?bib=https%3A%2F%2Fbibbase.org%2Fnetwork%2Ffiles%2FoiAweF3jCxzvQQS8F&noBootstrap=1&jsonp=1"></script>

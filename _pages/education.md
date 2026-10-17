@@ -11,6 +11,15 @@ redirect_from:
 # Education
 <hr>
 <span style="font-family:Georgia; color:black;">
+<span style="color:black; font-size:20px; font-family:Calisto MT"><b><a href="https://www.gsu.edu/" target="_blank">Georgia State University</a></b></span><br/>
+Ph.D. in Computer Science (in progress)<br/>
+Duration: January 2026 - Present<br/>
+<b>Advisor:</b> Dr. Yoon Jae Lee<br/>
+<b>Lab:</b> Body Data Interface (BDI) Lab<br/>
+Atlanta, Georgia, USA<br/>
+</span>
+<br/>
+<span style="font-family:Georgia; color:black;">
 <span style="color:black; font-size:20px; font-family:Calisto MT"><b><a href="https://aust.edu" target="_blank">Ahsanullah University of Science and Technology</a></b></span><br/>
 Bachelor of Science (B.Sc.) in Computer Science and Engineering [[Certificate]](https://jannatim-maisha.github.io/files/JannatimMaisha_Provisional_Certificate.pdf)<br/>
 CGPA: <b>3.869/4.00</b> (2nd in Merit)<br/>
