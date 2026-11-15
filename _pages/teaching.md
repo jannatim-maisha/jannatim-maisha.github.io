@@ -48,7 +48,7 @@ Department of Computer Science and Engineering<br />
 
 <details>
 <summary>CSE264: Digital Logic Design Lab</summary>
-<span style="color:green"><font size="3"><ins>Conducting in Summer 2025</ins></font></span><br>
+<span style="color:green"><font size="3"><ins>Conducted in Summer 2025</ins></font></span><br>
 <span style="text-align:justify; color:black; display:block;">
 <font size="3">
 <strong>Syllabus</strong>:  
